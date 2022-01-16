@@ -1,0 +1,9 @@
+
+.content {
+    text-align: center;
+}
+
+.content img {
+    min-width: 100px;
+    max-width: 300px;
+}
